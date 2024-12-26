@@ -2,6 +2,7 @@
 
 ## 📒 Descrição
 Projeto: Explorando o Potencial da IA Generativa
+
 Este projeto busca explorar as vastas possibilidades da inteligência artificial generativa, utilizando ferramentas avançadas como o Leonardo.ai para criar imagens e conteúdo inovador. A IA foi empregada para desenvolver quatro imagens representativas, demonstrando a capacidade de algoritmos generativos em transformar ideias abstratas em visuais criativos e únicos.
 Com foco em criatividade e inovação, o projeto destaca como modelos de IA podem ser aplicados em design, arte e comunicação, oferecendo soluções visuais que misturam precisão técnica com inspiração artística.
 
